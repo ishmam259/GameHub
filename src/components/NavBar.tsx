@@ -1,6 +1,6 @@
 import { HStack, Image } from "@chakra-ui/react";
 import ColorModeSwitch from "./ColorModeSwitch";
-import logo from "C:/Users/LENOVO/GameHub/src/assets/logo.webp";
+import logo from "../assets/logo.webp";
 import SearchInput from "./SearchInput";
 
 interface Props {
